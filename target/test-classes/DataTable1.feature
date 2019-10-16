@@ -5,11 +5,9 @@ Feature: Title of your feature
 
   @tag1
   Scenario: Title of your scenario
-    Given user in guru home page
-    
-    When user navigate to nxt page
-    
-    Then user successfully print the text
-   
+    Given user in home page
+    When user enter deatils
+    |udhaya|murugesan|9507731092|123456|
+    Then I validate the outcomes
 
- 
+

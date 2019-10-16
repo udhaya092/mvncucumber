@@ -1,0 +1,304 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5991420498,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.launching()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "title-of-your-feature;title-of-your-scenario-outline;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 692411731,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.quiting()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 6013163106,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user in home page",
+            "match": {
+              "location": "FbRegister.user_in_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3025369798,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user enter the details \"Udhaya\",\"kumar\",\"9999999\",\"123456\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Udhaya",
+                  "offset": 24
+                },
+                {
+                  "val": "kumar",
+                  "offset": 33
+                },
+                {
+                  "val": "9999999",
+                  "offset": 41
+                },
+                {
+                  "val": "123456",
+                  "offset": 51
+                }
+              ],
+              "location": "FbRegister.user_enter_the_details(String,String,String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 514565,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user successfully register",
+            "match": {
+              "location": "FbRegister.user_successfully_register()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2956521200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.launching()"
+            }
+          }
+        ],
+        "line": 17,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "title-of-your-feature;title-of-your-scenario-outline;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 675838723,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.quiting()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4317324793,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user in home page",
+            "match": {
+              "location": "FbRegister.user_in_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 864701540,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user enter the details \"ramesh\",\"raja\",\"88888888\",\"56765\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "ramesh",
+                  "offset": 24
+                },
+                {
+                  "val": "raja",
+                  "offset": 33
+                },
+                {
+                  "val": "88888888",
+                  "offset": 40
+                },
+                {
+                  "val": "56765",
+                  "offset": 51
+                }
+              ],
+              "location": "FbRegister.user_enter_the_details(String,String,String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 393944,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user successfully register",
+            "match": {
+              "location": "FbRegister.user_successfully_register()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3207302884,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.launching()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "title-of-your-feature;title-of-your-scenario-outline;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 672399309,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.quiting()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4069650173,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user in home page",
+            "match": {
+              "location": "FbRegister.user_in_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 859107198,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user enter the details \"mahesh\",\"babu\",\"7776567\",\"89876\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "mahesh",
+                  "offset": 24
+                },
+                {
+                  "val": "babu",
+                  "offset": 33
+                },
+                {
+                  "val": "7776567",
+                  "offset": 40
+                },
+                {
+                  "val": "89876",
+                  "offset": 50
+                }
+              ],
+              "location": "FbRegister.user_enter_the_details(String,String,String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 384105,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user successfully register",
+            "match": {
+              "location": "FbRegister.user_successfully_register()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      }
+    ],
+    "name": "Title of your feature",
+    "description": "  I want to use this template for my feature file",
+    "id": "title-of-your-feature",
+    "keyword": "Feature",
+    "uri": "src/test/resources/FaceBook.feature",
+    "tags": [
+      {
+        "name": "@tag",
+        "type": "Tag",
+        "location": {
+          "line": 2,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
